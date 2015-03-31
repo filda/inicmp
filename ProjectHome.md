@@ -1,0 +1,1 @@
+Save php settings to file, allows compare with other settings and shows differences.
